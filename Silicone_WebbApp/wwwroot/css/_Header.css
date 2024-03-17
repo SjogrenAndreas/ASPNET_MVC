@@ -1,0 +1,18 @@
+﻿body {
+    padding-top: 65px;
+}
+
+.navbar-brand img {
+    height: 50px; /* Adjust the size as needed */
+}
+
+#theme-toggle {
+    /* Add your styling for the toggle button here */
+}
+
+.navbar .btn-primary {
+    /* Add your styling for the sign-up button here */
+}
+
+/* Additional styles... */
+
